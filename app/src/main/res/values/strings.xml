@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">sampleapp2</string>
+    <string name="tel_message">స్వాగతం సుస్వాగతం</string>
+    <string name="tel_btn_message">టచ్ మీ</string>
+</resources>
